@@ -42,7 +42,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _Alpha: 0.6
-    - _Emission: 1.1
+    - _Emission: 1.55
     - _Glow_Strength: 0.88
     - _QueueControl: 0
     - _QueueOffset: 0
